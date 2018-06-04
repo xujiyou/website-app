@@ -11,4 +11,6 @@
 
 APP截图
 
-![wei](./image/9.png)
+![wei](./image/1.png)
+![wei](./image/2.png)
+![wei](./image/3.png)

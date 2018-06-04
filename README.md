@@ -1,8 +1,14 @@
-# jnxy
+# 使用 Flutter 做的学校微官网
 
-A new Flutter application.
+一个使用 Flutter 做的新闻类 APP ，是我做的第一个 APP 。
 
-## Getting Started
+实现的功能：
+- 获取数据之前，显示加载组件。
+- 分三个栏目展示新闻数据。
+- 从后台获取数据，使用ListView展示。
+- 底部的加载按钮，点击加载按钮可以加载更多新闻。
+- 头部搜索框可以搜索，搜不到会给出提示，搜到会显示出新闻列表。
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+APP截图
+
+![wei](./image/9.png)
